@@ -1,0 +1,12 @@
+C:\Users\JONGSUNG\source\repos\C_exercise\exercise\if_statement\Question07\bin\Debug\netcoreapp3.1\Question07.exe
+C:\Users\JONGSUNG\source\repos\C_exercise\exercise\if_statement\Question07\bin\Debug\netcoreapp3.1\Question07.deps.json
+C:\Users\JONGSUNG\source\repos\C_exercise\exercise\if_statement\Question07\bin\Debug\netcoreapp3.1\Question07.runtimeconfig.json
+C:\Users\JONGSUNG\source\repos\C_exercise\exercise\if_statement\Question07\bin\Debug\netcoreapp3.1\Question07.runtimeconfig.dev.json
+C:\Users\JONGSUNG\source\repos\C_exercise\exercise\if_statement\Question07\bin\Debug\netcoreapp3.1\Question07.dll
+C:\Users\JONGSUNG\source\repos\C_exercise\exercise\if_statement\Question07\bin\Debug\netcoreapp3.1\Question07.pdb
+C:\Users\JONGSUNG\source\repos\C_exercise\exercise\if_statement\Question07\obj\Debug\netcoreapp3.1\Question07.AssemblyInfoInputs.cache
+C:\Users\JONGSUNG\source\repos\C_exercise\exercise\if_statement\Question07\obj\Debug\netcoreapp3.1\Question07.AssemblyInfo.cs
+C:\Users\JONGSUNG\source\repos\C_exercise\exercise\if_statement\Question07\obj\Debug\netcoreapp3.1\Question07.csproj.CoreCompileInputs.cache
+C:\Users\JONGSUNG\source\repos\C_exercise\exercise\if_statement\Question07\obj\Debug\netcoreapp3.1\Question07.dll
+C:\Users\JONGSUNG\source\repos\C_exercise\exercise\if_statement\Question07\obj\Debug\netcoreapp3.1\Question07.pdb
+C:\Users\JONGSUNG\source\repos\C_exercise\exercise\if_statement\Question07\obj\Debug\netcoreapp3.1\Question07.genruntimeconfig.cache
