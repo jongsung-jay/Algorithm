@@ -1,0 +1,12 @@
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\if_statement\Question15\bin\Debug\netcoreapp3.1\Question15.exe
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\if_statement\Question15\bin\Debug\netcoreapp3.1\Question15.deps.json
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\if_statement\Question15\bin\Debug\netcoreapp3.1\Question15.runtimeconfig.json
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\if_statement\Question15\bin\Debug\netcoreapp3.1\Question15.runtimeconfig.dev.json
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\if_statement\Question15\bin\Debug\netcoreapp3.1\Question15.dll
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\if_statement\Question15\bin\Debug\netcoreapp3.1\Question15.pdb
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\if_statement\Question15\obj\Debug\netcoreapp3.1\Question15.AssemblyInfoInputs.cache
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\if_statement\Question15\obj\Debug\netcoreapp3.1\Question15.AssemblyInfo.cs
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\if_statement\Question15\obj\Debug\netcoreapp3.1\Question15.csproj.CoreCompileInputs.cache
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\if_statement\Question15\obj\Debug\netcoreapp3.1\Question15.dll
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\if_statement\Question15\obj\Debug\netcoreapp3.1\Question15.pdb
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\if_statement\Question15\obj\Debug\netcoreapp3.1\Question15.genruntimeconfig.cache

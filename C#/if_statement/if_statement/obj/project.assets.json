@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JONGSUNG\\source\\repos\\C_exercise\\exercise\\if_statement\\if_statement\\question01.csproj",
-      "projectName": "question01",
-      "projectPath": "C:\\Users\\JONGSUNG\\source\\repos\\C_exercise\\exercise\\if_statement\\if_statement\\question01.csproj",
+      "projectUniqueName": "C:\\Users\\JONGSUNG\\source\\repos\\Algorithm\\C#\\if_statement\\if_statement\\Question01.csproj",
+      "projectName": "Question01",
+      "projectPath": "C:\\Users\\JONGSUNG\\source\\repos\\Algorithm\\C#\\if_statement\\if_statement\\Question01.csproj",
       "packagesPath": "C:\\Users\\JONGSUNG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JONGSUNG\\source\\repos\\C_exercise\\exercise\\if_statement\\if_statement\\obj\\",
+      "outputPath": "C:\\Users\\JONGSUNG\\source\\repos\\Algorithm\\C#\\if_statement\\if_statement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JONGSUNG\\AppData\\Roaming\\NuGet\\NuGet.Config",
