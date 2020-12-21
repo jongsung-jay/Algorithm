@@ -1,0 +1,13 @@
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\02_switch\switch_statement\Question14\bin\Debug\netcoreapp3.1\Question14.exe
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\02_switch\switch_statement\Question14\bin\Debug\netcoreapp3.1\Question14.deps.json
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\02_switch\switch_statement\Question14\bin\Debug\netcoreapp3.1\Question14.runtimeconfig.json
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\02_switch\switch_statement\Question14\bin\Debug\netcoreapp3.1\Question14.runtimeconfig.dev.json
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\02_switch\switch_statement\Question14\bin\Debug\netcoreapp3.1\Question14.dll
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\02_switch\switch_statement\Question14\bin\Debug\netcoreapp3.1\Question14.pdb
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\02_switch\switch_statement\Question14\obj\Debug\netcoreapp3.1\Question14.csprojAssemblyReference.cache
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\02_switch\switch_statement\Question14\obj\Debug\netcoreapp3.1\Question14.AssemblyInfoInputs.cache
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\02_switch\switch_statement\Question14\obj\Debug\netcoreapp3.1\Question14.AssemblyInfo.cs
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\02_switch\switch_statement\Question14\obj\Debug\netcoreapp3.1\Question14.csproj.CoreCompileInputs.cache
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\02_switch\switch_statement\Question14\obj\Debug\netcoreapp3.1\Question14.dll
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\02_switch\switch_statement\Question14\obj\Debug\netcoreapp3.1\Question14.pdb
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\02_switch\switch_statement\Question14\obj\Debug\netcoreapp3.1\Question14.genruntimeconfig.cache
