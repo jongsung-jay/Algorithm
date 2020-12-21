@@ -46,7 +46,7 @@ namespace Question14
                     Console.WriteLine($"grass pay : {grossPay}, withholdingTax : {withholdingTax}, netpay : {netpay}");
                     break;
                 default:
-                    Console.WriteLine("Error...");
+                    Console.WriteLine("Error..");
                     break;
             }               
         }
