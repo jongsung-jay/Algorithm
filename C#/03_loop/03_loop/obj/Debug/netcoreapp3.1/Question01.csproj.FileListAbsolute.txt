@@ -1,0 +1,13 @@
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\03_loop\03_loop\bin\Debug\netcoreapp3.1\Question01.exe
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\03_loop\03_loop\bin\Debug\netcoreapp3.1\Question01.deps.json
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\03_loop\03_loop\bin\Debug\netcoreapp3.1\Question01.runtimeconfig.json
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\03_loop\03_loop\bin\Debug\netcoreapp3.1\Question01.runtimeconfig.dev.json
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\03_loop\03_loop\bin\Debug\netcoreapp3.1\Question01.dll
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\03_loop\03_loop\bin\Debug\netcoreapp3.1\Question01.pdb
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\03_loop\03_loop\obj\Debug\netcoreapp3.1\Question01.csprojAssemblyReference.cache
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\03_loop\03_loop\obj\Debug\netcoreapp3.1\Question01.AssemblyInfoInputs.cache
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\03_loop\03_loop\obj\Debug\netcoreapp3.1\Question01.AssemblyInfo.cs
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\03_loop\03_loop\obj\Debug\netcoreapp3.1\Question01.csproj.CoreCompileInputs.cache
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\03_loop\03_loop\obj\Debug\netcoreapp3.1\Question01.dll
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\03_loop\03_loop\obj\Debug\netcoreapp3.1\Question01.pdb
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\03_loop\03_loop\obj\Debug\netcoreapp3.1\Question01.genruntimeconfig.cache
