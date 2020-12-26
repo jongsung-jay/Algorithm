@@ -1,0 +1,13 @@
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\05_for_while_loop\For_While_Loops\Question05\bin\Debug\netcoreapp3.1\Question05.exe
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\05_for_while_loop\For_While_Loops\Question05\bin\Debug\netcoreapp3.1\Question05.deps.json
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\05_for_while_loop\For_While_Loops\Question05\bin\Debug\netcoreapp3.1\Question05.runtimeconfig.json
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\05_for_while_loop\For_While_Loops\Question05\bin\Debug\netcoreapp3.1\Question05.runtimeconfig.dev.json
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\05_for_while_loop\For_While_Loops\Question05\bin\Debug\netcoreapp3.1\Question05.dll
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\05_for_while_loop\For_While_Loops\Question05\bin\Debug\netcoreapp3.1\Question05.pdb
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\05_for_while_loop\For_While_Loops\Question05\obj\Debug\netcoreapp3.1\Question05.csprojAssemblyReference.cache
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\05_for_while_loop\For_While_Loops\Question05\obj\Debug\netcoreapp3.1\Question05.AssemblyInfoInputs.cache
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\05_for_while_loop\For_While_Loops\Question05\obj\Debug\netcoreapp3.1\Question05.AssemblyInfo.cs
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\05_for_while_loop\For_While_Loops\Question05\obj\Debug\netcoreapp3.1\Question05.csproj.CoreCompileInputs.cache
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\05_for_while_loop\For_While_Loops\Question05\obj\Debug\netcoreapp3.1\Question05.dll
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\05_for_while_loop\For_While_Loops\Question05\obj\Debug\netcoreapp3.1\Question05.pdb
+C:\Users\JONGSUNG\source\repos\Algorithm\C#\05_for_while_loop\For_While_Loops\Question05\obj\Debug\netcoreapp3.1\Question05.genruntimeconfig.cache
