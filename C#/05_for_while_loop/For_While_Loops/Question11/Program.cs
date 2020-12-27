@@ -21,10 +21,13 @@ namespace Question11
                 Console.Write("Enter the end character: ");
                 letter2 = Convert.ToChar(Console.ReadLine());
             } while (Convert.ToInt32(letter1) > Convert.ToInt32(letter2));
-
-            
-
-
+            Console.WriteLine();
+            Console.WriteLine("Letter\tDecimal\tOctal\tHex");
+            Console.WriteLine("---------------------------------------");
+            for (char c = Convert.ToChar(letter1); c <= Convert.ToChar(letter2); c++)
+            {
+                Console.WriteLine("{0}\t{1}\t{2}\t{3}", c, (int)c, Convert.ToString(c, 8), Convert.ToString(c, 16));
+            }
         }
     }
 }
