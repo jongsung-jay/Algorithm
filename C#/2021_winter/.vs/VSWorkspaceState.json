@@ -4,9 +4,13 @@
     "\\Assignment",
     "\\Assignment\\Assignment1",
     "\\Assignment\\Assignment1\\ConsoleApp1",
+    "\\Assignment\\Assignment1\\ConsoleApp1\\ConsoleApp1",
+    "\\Assignment\\Assignment1\\ConsoleApp1\\ConsoleApp1\\Classes",
     "\\Class",
-    "\\Class\\wk2"
+    "\\Class\\wk2",
+    "\\Class\\wk2\\ConsoleApp1",
+    "\\Class\\wk2\\ConsoleApp1\\ConsoleApp1"
   ],
-  "SelectedNode": "\\Class\\wk2",
+  "SelectedNode": "\\Assignment\\Assignment1\\ConsoleApp1\\ConsoleApp1\\Classes\\Rational.cs",
   "PreviewInSolutionExplorer": false
 }
