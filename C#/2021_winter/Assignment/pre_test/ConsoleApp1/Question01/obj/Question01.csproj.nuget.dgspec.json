@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JONGSUNG\\source\\repos\\centennial\\2021_winter\\pre_test\\ConsoleApp1\\Question01\\Question01.csproj": {}
+    "C:\\Users\\JONGSUNG\\source\\repos\\Algorithm\\C#\\2021_winter\\Assignment\\pre_test\\ConsoleApp1\\Question01\\Question01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JONGSUNG\\source\\repos\\centennial\\2021_winter\\pre_test\\ConsoleApp1\\Question01\\Question01.csproj": {
+    "C:\\Users\\JONGSUNG\\source\\repos\\Algorithm\\C#\\2021_winter\\Assignment\\pre_test\\ConsoleApp1\\Question01\\Question01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JONGSUNG\\source\\repos\\centennial\\2021_winter\\pre_test\\ConsoleApp1\\Question01\\Question01.csproj",
+        "projectUniqueName": "C:\\Users\\JONGSUNG\\source\\repos\\Algorithm\\C#\\2021_winter\\Assignment\\pre_test\\ConsoleApp1\\Question01\\Question01.csproj",
         "projectName": "Question01",
-        "projectPath": "C:\\Users\\JONGSUNG\\source\\repos\\centennial\\2021_winter\\pre_test\\ConsoleApp1\\Question01\\Question01.csproj",
+        "projectPath": "C:\\Users\\JONGSUNG\\source\\repos\\Algorithm\\C#\\2021_winter\\Assignment\\pre_test\\ConsoleApp1\\Question01\\Question01.csproj",
         "packagesPath": "C:\\Users\\JONGSUNG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JONGSUNG\\source\\repos\\centennial\\2021_winter\\pre_test\\ConsoleApp1\\Question01\\obj\\",
+        "outputPath": "C:\\Users\\JONGSUNG\\source\\repos\\Algorithm\\C#\\2021_winter\\Assignment\\pre_test\\ConsoleApp1\\Question01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JONGSUNG\\AppData\\Roaming\\NuGet\\NuGet.Config",

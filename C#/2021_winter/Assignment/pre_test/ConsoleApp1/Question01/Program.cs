@@ -44,7 +44,21 @@ namespace Question01
 
             return report;
         }
-
-
     }
 }
+
+/*
+In your Program class, create a new method called GetInfo. This method receives one parameter: A string that is expected to contain a sentence. 
+
+It returns a string that contains a metadata report on the specified string. 
+The report should include: 
+1: the total number of characters (Hint: spaces are characters) 
+2: the total number of words
+3: the longest word in that string. 
+Each one of these should appear in an individual line in the report.
+
+Once you are done, write the test harness in the Main method of your Program class, ensuring your code is fully functional as per requirements. 
+In other words, define two or three random sentences in your Main method, and display a sentence report in the Console for each one of them.
+You can choose your sentences freely.
+For full marks, ensure your method handles exceptions properly, and in case of errors, display clean and meaninful messages to the user (Hint: Implement try-catch blocks).
+ */
