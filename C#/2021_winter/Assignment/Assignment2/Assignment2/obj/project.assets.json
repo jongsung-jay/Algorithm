@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JONGSUNG\\source\\repos\\centennial\\2021_winter\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj",
+      "projectUniqueName": "C:\\Users\\JONGSUNG\\source\\repos\\Algorithm\\C#\\2021_winter\\Assignment\\Assignment2\\Assignment2\\Assignment2.csproj",
       "projectName": "Assignment2",
-      "projectPath": "C:\\Users\\JONGSUNG\\source\\repos\\centennial\\2021_winter\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj",
+      "projectPath": "C:\\Users\\JONGSUNG\\source\\repos\\Algorithm\\C#\\2021_winter\\Assignment\\Assignment2\\Assignment2\\Assignment2.csproj",
       "packagesPath": "C:\\Users\\JONGSUNG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JONGSUNG\\source\\repos\\centennial\\2021_winter\\Assignment2\\Assignment2\\Assignment2\\obj\\",
+      "outputPath": "C:\\Users\\JONGSUNG\\source\\repos\\Algorithm\\C#\\2021_winter\\Assignment\\Assignment2\\Assignment2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JONGSUNG\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,7 +32,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -44,7 +43,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -60,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.107\\RuntimeIdentifierGraph.json"
       }
     }
   }
