@@ -7,11 +7,8 @@
     "\\Assignment2\\Assignment2",
     "\\pre_test",
     "\\pre_test\\ConsoleApp2",
-    "\\pre_test\\ConsoleApp2\\ConsoleApp2",
-    "\\test",
-    "\\test\\test",
-    "\\test\\test\\test"
+    "\\pre_test\\ConsoleApp2\\ConsoleApp2"
   ],
-  "SelectedNode": "\\test\\test",
+  "SelectedNode": "\\Assignment2\\Assignment2\\TweetManager.cs",
   "PreviewInSolutionExplorer": false
 }

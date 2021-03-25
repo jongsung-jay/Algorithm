@@ -49,10 +49,7 @@ namespace Assignment2
                 Console.WriteLine(tweet + "\n");
             }
         }
-        /*
-         * This is a public class method that takes a string argument
-         * that does not return a value. It display all the tweets matching this tag.
-         */
+
         public static void ShowAll(string tag)
         {
             foreach (Tweet tweet in tweets)
