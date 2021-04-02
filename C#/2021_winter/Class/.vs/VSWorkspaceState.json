@@ -1,8 +1,19 @@
 {
   "ExpandedNodes": [
     "",
-    "\\wk3"
+    "\\wk2",
+    "\\wk2\\ConsoleApp1",
+    "\\wk2\\ConsoleApp1\\ConsoleApp1",
+    "\\wk2\\ConsoleApp1\\ConsoleApp1\\Models",
+    "\\wk3",
+    "\\wk3\\ConsoleApp1",
+    "\\wk3\\ConsoleApp1\\ConsoleApp1",
+    "\\wk3\\ConsoleApp1\\ConsoleApp1\\model",
+    "\\wk4",
+    "\\wk4\\ConsoleApp1",
+    "\\wk4\\ConsoleApp1\\ConsoleApp1",
+    "\\wk4\\ConsoleApp1\\ConsoleApp1\\model"
   ],
-  "SelectedNode": "\\wk3",
+  "SelectedNode": "\\wk2\\ConsoleApp1\\ConsoleApp1\\Models\\Rational.cs",
   "PreviewInSolutionExplorer": false
 }
